@@ -1,0 +1,12 @@
+title: 'Transient ISE Non-causality Study'
+author: 'Steven Carter'
+copyright: '2026'
+execute:
+  execute_notebooks: auto
+  timeout: 600
+
+sphinx:
+  extra_extensions:
+  - sphinx_jupyterbook_latex
+  config:
+    project: "Transient ISE Non-causality Study"

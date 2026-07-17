@@ -1,0 +1,11 @@
+The software requirements for running the code in this study include: 
+- Python >=3.11
+- NumPy
+- SciPy
+- Matplotlib
+- SDynPy >= 0.21.0
+- ForceFinder
+
+jupyter-book and nbconvert are only used for deploying the examples as a webpage
+- jupyter-book==1.0.4
+- nbconvert

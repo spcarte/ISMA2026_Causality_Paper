@@ -1,0 +1,9 @@
+format: jb-book
+root: causality_study_introduction
+chapters:
+  - file: circular_convolution
+  - file: noncausal_frfs
+  - file: zero_padding
+  - file: modeling_errors
+  - file: acknowledgements
+  - file: requirements_appendix
