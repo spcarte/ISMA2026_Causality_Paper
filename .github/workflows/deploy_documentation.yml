@@ -36,10 +36,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r python_package_requirements.txt
       
-      - name: Generate data
-        run: |
-          jupyter nbconvert --to notebook --execute Code_from_Paper/causality_study_introduction.ipynb --inplace
-          
       # Build the book
       - name: Build the book
         run: jupyter-book build Code_from_Paper
