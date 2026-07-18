@@ -1,5 +1,4 @@
 # The software requirements for running the code in this study include: 
-Python >=3.11
 NumPy
 SciPy
 Matplotlib
