@@ -2,8 +2,7 @@ title: 'Transient ISE Non-causality Study'
 author: 'Steven Carter'
 copyright: '2026'
 execute:
-  execute_notebooks: auto
-  timeout: 600
+  execute_notebooks: "off"
 
 sphinx:
   extra_extensions:
