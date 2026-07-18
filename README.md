@@ -1,4 +1,4 @@
-# ISMA
+# Endeavoring to Understand Non-causal Behavior in Transient Source Estimation Problems - Technical Content
 This respository contains the code that was used to generate the findings for the ISMA 2026 conference paper that was titled "Endeavoring to Understand Non-causal Behavior in Transient Source Estimation Problems". Refer to the paper in the ISMA 2026 conference proceedings for more details and discussion. The __Code_from_Paper__ folder contains Jupyter notebood that show all the code with some limited narrative content. Alternatively, the code can also be reviewed [on the web here](https://spcarte.github.io/ISMA2026_Causality_Paper/).
 Note that the contents of the .github folder, readme.md file, and python_package_requirements.txt file are primarily included to format the repository and deploy the webpage for the technical content.
 
